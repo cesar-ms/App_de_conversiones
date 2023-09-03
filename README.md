@@ -28,7 +28,7 @@ __Sistema de numeración__
 
 -_Hexadecimal_
 
-Cuenta con una interfaz como los campos antes mencionados.
+Cuenta con una interfaz con los campos antes mencionados.
 
 Desarrollado en: __Apache NetBeans__
 
